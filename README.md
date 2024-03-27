@@ -1,8 +1,6 @@
 #------------------------------------------------------------------------------
-# Zion Kang, zkang5
-# 2023 Spring CSE101 PA8
-# README.md
-# Table of Contents for pa8
+This project contains source code for a Dictionary ADT in C++ as well as a
+program that parses data in an input file for words and their frequency.
 #------------------------------------------------------------------------------
 
 Dictionary.h - Header file for Dictionary ADT
