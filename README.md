@@ -1,6 +1,8 @@
 #------------------------------------------------------------------------------
+
 This project contains source code for a Dictionary ADT in C++ as well as a
 program that parses data in an input file for words and their frequency.
+
 #------------------------------------------------------------------------------
 
 Dictionary.h - Header file for Dictionary ADT
